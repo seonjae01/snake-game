@@ -46,7 +46,7 @@ cd snake-game
 mkdir build
 cd build
 ```
-- Make 실행
+- CMake 실행
 
 ```
 cmake ..
