@@ -69,7 +69,7 @@ make
 ```bash
 .
 ├── CMakeLists.txt         # CMake 빌드 설정 파일
-├── LICENSE
+├── LICENSE                # 프로젝트 라이선스 파일
 ├── README.md              # 프로젝트 설명 파일
 ├── src/                   # 소스 코드 디렉토리
     ├── main.cpp           # 게임의 메인 소스 파일
