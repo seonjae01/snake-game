@@ -1,6 +1,6 @@
 # Snake Game
 
-이 프로젝트는 C++와 ncurses 라이브러리를 사용하여 만든 Snake Game입니다.
+이 프로젝트는 **C++** 와 **`ncurses`** 라이브러리를 사용하여 만든 Snake Game입니다.
 
 ## 🕹️ 게임 규칙
 
